@@ -1,0 +1,5 @@
+const preseasonFavorites=[['Jeremiah Smith','WR · Ohio State','ohio-state'],['Dante Moore','QB · Oregon','oregon'],['Malachi Toney','WR · Miami','miami'],['Julian Sayin','QB · Ohio State','ohio-state']];
+const heismanCard=document.querySelectorAll('.award-card')[1];
+heismanCard.classList.add('heisman-card','dynasty-heisman');
+heismanCard.style.gridRow='auto';
+heismanCard.innerHTML=`<header><span>2026 Preseason · Dynasty Watch</span><h2>Heisman Favorites</h2><p>The official dynasty preseason field supplied before opening week.</p></header><img class="heisman-reveal" src="assets/awards/2026-preseason-heisman-favorites.png" alt="2026 preseason Heisman favorites: Jeremiah Smith, Dante Moore, Malachi Toney, and Julian Sayin"><div class="heisman-list">${preseasonFavorites.map(([name,school,logo],index)=>`<div class="heisman-row"><b>${index+1}</b><img src="assets/teams/${logo}.png" alt="${school.split(' · ')[1]}"><span><strong>${name}</strong><small>${school}</small></span><em>Preseason</em></div>`).join('')}</div>`;

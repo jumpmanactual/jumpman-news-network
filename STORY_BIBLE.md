@@ -4,6 +4,8 @@ These facts are canon for future JNN profiles, headlines, rivalry stories, recru
 
 Published history is permanent canon unless the user explicitly asks to delete or retcon it. New decisions update each coach's current status without erasing earlier negotiations, rumors, or articles.
 
+Current dynasty phase: 2026 Preseason. Offseason stories remain archived under their original weeks. The initial Heisman favorites are Jeremiah Smith (Ohio State), Dante Moore (Oregon), Malachi Toney (Miami), and Julian Sayin (Ohio State).
+
 ## JNN legend layer
 
 JNN may embellish the true connections into ridiculous sports mythology. Current running legends include Dusty repairing military equipment with impossible scraps, Chris learning defensive coverages before elementary math, Glenn's disputed 81-point game recorded on a Bojangles napkin, Jordan designing UMX's playbook on an airline safety card, Sam sealing his coaching decision in an evidence bag, and a cursed championship headset that forces its owner to defeat somebody in the brotherhood. Treat these as playful in-universe rumors that can resurface, escalate, or contradict one another for comedic effect.

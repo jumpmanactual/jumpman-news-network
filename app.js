@@ -19,9 +19,10 @@ const scores=[
   ["FINAL","Charlotte Cobras",26,"Gastonia Gators",20],["FINAL","Mint Hill Mustangs",34,"Matthews Marauders",6],["FINAL / OT","Queen City Raptors",14,"Concord Crushers",13],["FINAL","Pineville Pirates",22,"Rock Hill Rockets",24]
 ];
 const players=[
-  {rank:1,name:"C.J. Carr",school:"QB · NOTRE DAME",odds:"+750",status:"Co-favorite",case:"Efficient returning starter with an NFL-caliber ceiling and a schedule built for a national awards run."},
-  {rank:2,name:"Arch Manning",school:"QB · TEXAS",odds:"+750",status:"Co-favorite",case:"Football royalty gets another shot at converting elite talent, massive exposure, and Texas expectations into a Heisman season."},
-  {rank:3,name:"Trinidad Chambliss",school:"QB · OLE MISS",odds:"+900",status:"Top challenger",case:"The sixth-year quarterback enters 2026 with playoff experience, explosive upside, and the shortest odds behind the two favorites."}
+  {rank:1,name:"Jeremiah Smith",school:"WR · OHIO STATE",odds:"No. 1",status:"Favorite",case:"Ohio State's game-breaking receiver opens the dynasty preseason at the front of the Heisman field."},
+  {rank:2,name:"Dante Moore",school:"QB · OREGON",odds:"No. 2",status:"Favorite",case:"Oregon's quarterback enters the season positioned to turn a playoff chase into a national awards campaign."},
+  {rank:3,name:"Malachi Toney",school:"WR · MIAMI",odds:"No. 3",status:"Favorite",case:"Miami's explosive playmaker brings open-field electricity and immediate preseason buzz to the race."},
+  {rank:4,name:"Julian Sayin",school:"QB · OHIO STATE",odds:"No. 4",status:"Favorite",case:"Sayin gives Ohio State a second contender and enters the year directing one of the nation's most watched offenses."}
 ];
 // COACH PROFILES — edit these fields to update the Coaches section.
 const coaches=[
