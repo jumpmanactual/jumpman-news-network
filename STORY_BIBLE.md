@@ -12,6 +12,8 @@ Jordan has also hired former Florida State player Nick O'Leary as a UMX assistan
 
 ## Jordan Thomas
 
+UMX's official 2026 uniform collection includes three sets: a black-and-gold Home uniform, a white Away uniform with gold and silver details, and the tonal-black Noche Azteca alternate. The program frames the collection around tradition, culture, and excellence.
+
 Born in San Diego and raised as a Marine Corps military brat, Jordan eventually settled in Charlotte, where he met Glenn Vernon and Sam in middle school. After a brief college stint, he joined the Marines and met Dustin “Dusty” Cathcart. Dusty became his closest friend and chosen brother. Jordan is an uncle figure to Dusty's children, including Chris.
 
 ## Glenn Vernon

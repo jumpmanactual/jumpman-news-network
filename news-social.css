@@ -12,6 +12,8 @@
 .social-news-rail article p{font-size:12px;line-height:1.5;color:#d8e0e8;margin:9px 0}
 .social-news-rail article em{color:#ff687e;font-size:10px;font-style:normal;font-weight:700}
 .mobile-social-ticker{display:none}
+.news-carousel>img.uniform-reveal{object-fit:contain;object-position:center;background:#050505}
+.reader-image.uniform-reveal{height:auto;object-fit:contain;background:#050505}
 @media(max-width:900px){.headline-archive{position:static;max-height:420px}.social-news-rail{grid-column:1/-1;min-height:0}}
 @media(max-width:760px){
   body{padding-bottom:44px}
