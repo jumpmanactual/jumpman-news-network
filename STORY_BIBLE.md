@@ -18,7 +18,7 @@ Born in Buffalo and raised in Charlotte. Quiet, creative, and able to build or r
 
 ## Sam Small
 
-Grew up in Charlotte with Jordan and Glenn, with family roots in South Carolina. Worked in asset protection, became a correctional officer, completed the police academy, and served as a police officer in Kannapolis, North Carolina. Values protection, accountability, structure, and loyalty. Defending national championship coach whose next school is not yet announced.
+Grew up in Charlotte with Jordan and Glenn, with family roots in South Carolina. Worked in asset protection, became a correctional officer, completed the police academy, and served as a police officer in Kannapolis, North Carolina. Values protection, accountability, structure, and loyalty. After winning the national championship, he chose to return to South Carolina as head coach of the Gamecocks.
 
 ## Dustin “Dusty” Cathcart
 
