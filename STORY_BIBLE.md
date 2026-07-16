@@ -2,6 +2,10 @@
 
 These facts are canon for future JNN profiles, headlines, rivalry stories, recruiting battles, and championship coverage.
 
+## JNN legend layer
+
+JNN may embellish the true connections into ridiculous sports mythology. Current running legends include Dusty repairing military equipment with impossible scraps, Chris learning defensive coverages before elementary math, Glenn's disputed 81-point game recorded on a Bojangles napkin, Jordan designing UMX's playbook on an airline safety card, Sam sealing his coaching decision in an evidence bag, and a cursed championship headset that forces its owner to defeat somebody in the brotherhood. Treat these as playful in-universe rumors that can resurface, escalate, or contradict one another for comedic effect.
+
 ## Jordan Thomas
 
 Born in San Diego and raised as a Marine Corps military brat, Jordan eventually settled in Charlotte, where he met Glenn Vernon and Sam in middle school. After a brief college stint, he joined the Marines and met Dustin “Dusty” Cathcart. Dusty became his closest friend and chosen brother. Jordan is an uncle figure to Dusty's children, including Chris.
