@@ -13,7 +13,7 @@ const heroSlides=[
   {tag:"Decision Watch",title:"WHO WILL HIRE|DUSTY?",summary:"The MacGyver of the Marines remains the carousel's most inventive—and unpredictable—available coach.",image:"assets/coaches/dustin-cathcart-open-to-work.png",position:"center 22%"}
 ];
 const rankings=[
-  [1,"Indiana","16–0","—"],[2,"Miami","13–3","▲ 8"],[3,"Ole Miss","13–2","▲ 3"],[4,"Oregon","13–2","▲ 1"],[5,"Ohio State","12–2","▼ 2"],[6,"Georgia","12–2","▼ 4"],[7,"Texas Tech","12–2","▼ 3"],[8,"Texas A&M","11–2","▼ 1"],[9,"Alabama","11–4","▲ 2"],[10,"Notre Dame","10–2","▼ 1"]
+  [1,"Ohio State","0–0","—"],[2,"Oregon","0–0","—"],[3,"Notre Dame","0–0","—"],[4,"Georgia","0–0","—"],[5,"Indiana","0–0","—"],[6,"Miami","0–0","—"],[7,"Texas","0–0","—"],[8,"Texas A&M","0–0","—"],[9,"Ole Miss","0–0","—"],[10,"Oklahoma","0–0","—"]
 ];
 const scores=[
   ["FINAL","Charlotte Cobras",26,"Gastonia Gators",20],["FINAL","Mint Hill Mustangs",34,"Matthews Marauders",6],["FINAL / OT","Queen City Raptors",14,"Concord Crushers",13],["FINAL","Pineville Pirates",22,"Rock Hill Rockets",24]

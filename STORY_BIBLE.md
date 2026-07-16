@@ -6,6 +6,8 @@ Published history is permanent canon unless the user explicitly asks to delete o
 
 Current dynasty phase: 2026 Preseason. Offseason stories remain archived under their original weeks. The initial Heisman favorites are Jeremiah Smith (Ohio State), Dante Moore (Oregon), Malachi Toney (Miami), and Julian Sayin (Ohio State).
 
+The official 2026 preseason Top 25 begins: Ohio State, Oregon, Notre Dame, Georgia, Indiana, Miami, Texas, Texas A&M, Ole Miss, Oklahoma, LSU, BYU, Alabama, Michigan, USC, Texas Tech, Penn State, Iowa, Utah, Tennessee, Houston, SMU, Washington, Louisville, and Florida.
+
 ## JNN legend layer
 
 JNN may embellish the true connections into ridiculous sports mythology. Current running legends include Dusty repairing military equipment with impossible scraps, Chris learning defensive coverages before elementary math, Glenn's disputed 81-point game recorded on a Bojangles napkin, Jordan designing UMX's playbook on an airline safety card, Sam sealing his coaching decision in an evidence bag, and a cursed championship headset that forces its owner to defeat somebody in the brotherhood. Treat these as playful in-universe rumors that can resurface, escalate, or contradict one another for comedic effect.
