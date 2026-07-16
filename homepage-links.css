@@ -1,0 +1,5 @@
+.story-card{text-decoration:none}
+.article-grid>a.article-card{display:block;position:relative;padding:26px;text-decoration:none}
+.article-grid>a.article-card:hover{border-color:#ec9aa7;box-shadow:0 16px 35px #0b1b2d14;transform:translateY(-3px)}
+.article-grid>a.article-card>p{color:#5a6877;font-size:13px;line-height:1.55;margin:0 0 20px}
+
