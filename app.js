@@ -6,7 +6,7 @@ const stories=[
   {category:"The Decision",title:"Champion Sam Small will choose a new school",body:"Last season's national championship coach is leaving for a new challenge. His destination remains secret as the dynasty awaits his announcement.",meta:"BREAKING · CHAMPS GO WHERE THEY WANT"}
 ];
 const rankings=[
-  [1,"Ohio State","7–0","—"],[2,"Metro State","7–0","▲ 2"],[3,"Georgia","6–1","▼ 1"],[4,"Oregon","6–1","▲ 1"],[5,"LSU","6–1","▼ 2"],[6,"Texas","5–2","—"],[7,"Penn State","6–1","▲ 3"],[8,"Miami","5–2","▼ 1"],[9,"Clemson","5–2","NEW"],[10,"Alabama","4–3","▼ 2"]
+  [1,"Indiana","16–0","—"],[2,"Miami","13–3","▲ 8"],[3,"Ole Miss","13–2","▲ 3"],[4,"Oregon","13–2","▲ 1"],[5,"Ohio State","12–2","▼ 2"],[6,"Georgia","12–2","▼ 4"],[7,"Texas Tech","12–2","▼ 3"],[8,"Texas A&M","11–2","▼ 1"],[9,"Alabama","11–4","▲ 2"],[10,"Notre Dame","10–2","▼ 1"]
 ];
 const scores=[
   ["FINAL","#2 Metro State",38,"#11 Coastal Tech",31],["FINAL / OT","#5 LSU",27,"#14 Florida",24],["FINAL","#1 Ohio State",45,"Wisconsin",17],["FINAL","#9 Clemson",20,"#6 Texas",34]
