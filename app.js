@@ -59,6 +59,8 @@ const socialPosts=[
   {name:"Headset Tracker",handle:"@CursedHeadset",time:"5h",avatar:"🎧",text:"Location: unknown. Battery: 87%. Curse: active. Rivalry week is going to be cinema.",tags:"#BrotherhoodBeforeFootball"}
 ];
 const tickers=["BREAKING: National champion Sam Small chooses South Carolina","THE DECISION IS FINAL — the Gamecocks land the reigning champ","HISTORY: Universidad México becomes NCAA's first non-U.S. member","Coach Jordan Thomas introduced as leader of the Panteras"];
+heroSlides[0].image="assets/coaches/sam-small-decision.png?v=20260716-2";
+coaches.find(coach=>coach.name==="Sam Small").image="assets/coaches/sam-small-decision.png?v=20260716-2";
 const orderedStories=[...stories].sort((a,b)=>(b.category==="Breaking News")-(a.category==="Breaking News"));
 document.querySelector('#story-grid').innerHTML=orderedStories.map(s=>`<article class="story-card"><span class="category">${s.category}</span><h3>${s.title}</h3><p>${s.body}</p><span class="story-meta">${s.meta}</span></article>`).join('');
 const topStorySlugs={"Sam Small chooses South Carolina":"sam-small-south-carolina","Thomas chooses Universidad México":"jordan-thomas-universidad-mexico","Chris Cathcart accepts Arizona job":"chris-cathcart-arizona","Glenn Vernon takes over at Duke":"glenn-vernon-duke","Dustin Cathcart remains on the market":"dusty-cathcart-decision-watch"};
