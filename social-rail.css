@@ -1,0 +1,2 @@
+@media(min-width:1051px){.newsroom-layout{grid-template-columns:minmax(0,1fr) 360px}.social-feed{max-height:none;overflow:visible}.social-header{border-bottom:4px solid #e31837}.social-post{padding:20px 18px}.social-post p{font-size:12px;line-height:1.58}}
+@media(max-width:1050px){.social-feed{max-height:none;overflow:visible}}
