@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#07110c" />
+  <meta name="description" content="Jumpman News Network — fictional headlines, rankings, scores, and storylines for an online college football dynasty." />
+  <title>Jumpman News Network | Dynasty Never Sleeps</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header>
+    <div class="utility-bar">
+      <span>LIVE FROM THE DYNASTY</span>
+      <span id="date-stamp"></span>
+    </div>
+    <nav class="nav shell" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="Jumpman News Network home">
+        <span class="brand-mark">J</span>
+        <span>JUMPMAN <em>NEWS NETWORK</em></span>
+      </a>
+      <button class="menu-button" aria-expanded="false" aria-controls="nav-links">Menu</button>
+      <div class="nav-links" id="nav-links">
+        <a href="#headlines">Headlines</a>
+        <a href="#rankings">Rankings</a>
+        <a href="#scores">Scores</a>
+        <a href="#players">Players</a>
+      </div>
+    </nav>
+    <div class="ticker" aria-label="Breaking news">
+      <strong>BREAKING</strong>
+      <div class="ticker-window"><div class="ticker-track" id="ticker-track"></div></div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero shell" id="top">
+      <article class="lead-story">
+        <div class="photo-field" role="img" aria-label="Stadium lights over a football field">
+          <span class="field-number">01</span>
+          <div class="yard-lines"></div>
+        </div>
+        <div class="lead-copy">
+          <span class="tag">Game of the Week</span>
+          <h1>A DYNASTY<br><span>ON THE LINE.</span></h1>
+          <p>No. 2 Metro State walks into Death Valley with everything to lose—and a perfect season hanging in the balance.</p>
+          <a href="#headlines" class="button">Read the full story <span>→</span></a>
+        </div>
+      </article>
+      <aside class="week-panel">
+        <p class="eyebrow">Dynasty Central</p>
+        <div class="week-number">WEEK <strong>8</strong></div>
+        <div class="matchup">
+          <div><span class="rank">2</span><b>MET</b><small>7–0</small></div>
+          <span class="at">@</span>
+          <div><span class="rank">5</span><b>LSU</b><small>6–1</small></div>
+        </div>
+        <div class="kickoff"><span>SAT 8:00 PM ET</span><span>PRIMETIME</span></div>
+        <div class="panel-stat"><span>Line</span><strong>LSU −2.5</strong></div>
+        <div class="panel-stat"><span>O/U</span><strong>61.5</strong></div>
+      </aside>
+    </section>
+
+    <section class="section shell" id="headlines">
+      <div class="section-heading"><div><p class="eyebrow">Around the league</p><h2>Top Stories</h2></div><span class="rule"></span></div>
+      <div class="story-grid" id="story-grid"></div>
+    </section>
+
+    <section class="data-zone" id="rankings">
+      <div class="shell data-grid">
+        <div>
+          <div class="section-heading light"><div><p class="eyebrow">The JNN 10</p><h2>Power Rankings</h2></div><span class="rule"></span></div>
+          <div class="rankings" id="rankings-list"></div>
+        </div>
+        <div id="scores">
+          <div class="section-heading light"><div><p class="eyebrow">Final whistle</p><h2>Week 7 Scores</h2></div><span class="rule"></span></div>
+          <div class="score-list" id="score-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell" id="players">
+      <div class="section-heading"><div><p class="eyebrow">Saturday stars</p><h2>Heisman Watch</h2></div><span class="rule"></span></div>
+      <div class="player-grid" id="player-grid"></div>
+    </section>
+
+    <section class="newsletter">
+      <div class="shell newsletter-inner">
+        <div><p class="eyebrow">Stay in the huddle</p><h2>THE DYNASTY NEVER SLEEPS.</h2><p>Bookmark JNN for every headline, upset, rivalry, and award race.</p></div>
+        <a class="button dark" href="#top">Back to top <span>↑</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="shell">
+    <div class="brand footer-brand"><span class="brand-mark">J</span><span>JUMPMAN <em>NEWS NETWORK</em></span></div>
+    <p>Fictional coverage for a private online dynasty. Not affiliated with the NCAA or EA Sports.</p>
+    <p>© <span id="year"></span> JNN</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
