@@ -14,7 +14,7 @@ const players=[
 ];
 // COACH PROFILES — edit these fields to update the Coaches section.
 const coaches=[
-  {name:"Dustin Cathcart",team:"Florida State",role:"Head Coach",image:"assets/coaches/dustin-cathcart.png",record:"First season",scheme:"Multiple offense",background:"Building a new era in Tallahassee with an aggressive recruiting vision and championship expectations.",storyline:"The standard is the standard—and every week is an audition."},
+  {name:"Dustin Cathcart",team:"Coaching Market",role:"Head Coach Candidate",image:"assets/coaches/dustin-cathcart-open-to-work.png",record:"Available",scheme:"Multiple offense",background:"One of the coaching market's most intriguing names, Cathcart is evaluating opportunities and has not committed to a program.",storyline:"Which school will make the call—and which opening will earn his signature?"},
   {name:"Chris Cathcart",team:"Arizona",role:"Head Coach",image:"assets/coaches/chris-cathcart-arizona.png",record:"First season",scheme:"Spread tempo",background:"Tasked with turning Arizona into a fearless desert contender through speed, spacing, and player development.",storyline:"Can the Wildcats crash the conference title race ahead of schedule?"},
   {name:"Glenn Vernon",team:"Duke",role:"Head Coach",image:"assets/coaches/glenn-vernon-duke.png",record:"First season",scheme:"Balanced attack",background:"Bringing energy and edge to Durham, Vernon wants Duke to become the league's most uncomfortable matchup.",storyline:"A culture rebuild is becoming one of the dynasty's fastest-rising stories."}
 ];
