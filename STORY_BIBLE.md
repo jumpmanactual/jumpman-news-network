@@ -18,6 +18,8 @@ Jordan has also hired former Florida State player Nick O'Leary as a UMX assistan
 
 UMX's official 2026 uniform collection includes three sets: a black-and-gold Home uniform, a white Away uniform with gold and silver details, and the tonal-black Noche Azteca alternate. The program frames the collection around tradition, culture, and excellence.
 
+UMX has purchased an absurdly advanced performance complex that includes a working Hyperbolic Time Chamber. The recurring storyline is that freshmen can enter at 18, complete years of development inside, and emerge moments later as 30-year-old freshmen in their athletic prime while retaining eligibility. NCAA compliance arguments, mature-adult freshman behavior, and time-dilation recruiting advantages should recur in future coverage.
+
 Born in San Diego and raised as a Marine Corps military brat, Jordan eventually settled in Charlotte, where he met Glenn Vernon and Sam in middle school. After a brief college stint, he joined the Marines and met Dustin “Dusty” Cathcart. Dusty became his closest friend and chosen brother. Jordan is an uncle figure to Dusty's children, including Chris.
 
 ## Glenn Vernon
