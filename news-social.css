@@ -6,11 +6,12 @@
 .social-news-rail header{padding:20px;border-bottom:1px solid #ffffff20;text-transform:uppercase;letter-spacing:.12em}
 .social-news-rail header span{display:block;color:#ff687e;font-size:9px;font-weight:800;margin-bottom:5px}
 .social-news-rail header b{font:22px "Archivo Black"}
+.social-news-rail header small{display:block;color:#8ea0b4;font-size:9px;line-height:1.4;margin-top:7px;letter-spacing:0;text-transform:none}
+.social-feed-window{max-height:760px;overflow-y:auto;scrollbar-width:thin;scrollbar-color:#e31837 #071a33;scroll-behavior:smooth}
 .social-news-rail article{padding:18px 20px;border-bottom:1px solid #ffffff18}
-.social-news-rail article strong{font-size:12px}
-.social-news-rail article small{float:right;color:#8ea0b4;font-size:9px}
+.social-news-rail article>div{display:flex;align-items:center;justify-content:space-between;gap:8px}.social-news-rail article strong{font-size:12px}.social-news-rail article small{color:#8ea0b4;font-size:8px;text-align:right}
 .social-news-rail article p{font-size:12px;line-height:1.5;color:#d8e0e8;margin:9px 0}
-.social-news-rail article em{color:#ff687e;font-size:10px;font-style:normal;font-weight:700}
+.social-news-rail article a{color:#ff687e;font-size:9px;line-height:1.4;text-decoration:none;font-weight:700}.social-news-rail article a:hover{text-decoration:underline}
 .mobile-social-ticker{display:none}
 .news-carousel>img.uniform-reveal{object-fit:contain;object-position:center;background:#050505}
 .reader-image.uniform-reveal{height:auto;object-fit:contain;background:#050505}
