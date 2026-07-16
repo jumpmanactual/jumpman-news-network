@@ -16,6 +16,8 @@ Born in San Diego and raised as a Marine Corps military brat, Jordan eventually 
 
 Born in Buffalo and raised in Charlotte. Quiet, creative, and able to build or repair nearly anything. Known as the group's ultimate DIY problem-solver. Nicknamed “Kobe” because of his resemblance to Kobe Bryant and the basketball ability to support it. Coaches with calm confidence and a builder's mind.
 
+Current team: Florida State. Glenn initially agreed to take the Duke job, but the two sides could not finish contract negotiations. Florida State moved quickly and signed him before the season began. Duke remains part of his carousel history; all current team references should identify him as Florida State's head coach.
+
 ## Sam Small
 
 Grew up in Charlotte with Jordan and Glenn, with family roots in South Carolina. Worked in asset protection, became a correctional officer, completed the police academy, and served as a police officer in Kannapolis, North Carolina. Values protection, accountability, structure, and loyalty. After winning the national championship, he chose to return to South Carolina as head coach of the Gamecocks.
