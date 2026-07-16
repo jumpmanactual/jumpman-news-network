@@ -2,6 +2,8 @@
 
 These facts are canon for future JNN profiles, headlines, rivalry stories, recruiting battles, and championship coverage.
 
+Published history is permanent canon unless the user explicitly asks to delete or retcon it. New decisions update each coach's current status without erasing earlier negotiations, rumors, or articles.
+
 ## JNN legend layer
 
 JNN may embellish the true connections into ridiculous sports mythology. Current running legends include Dusty repairing military equipment with impossible scraps, Chris learning defensive coverages before elementary math, Glenn's disputed 81-point game recorded on a Bojangles napkin, Jordan designing UMX's playbook on an airline safety card, Sam sealing his coaching decision in an evidence bag, and a cursed championship headset that forces its owner to defeat somebody in the brotherhood. Treat these as playful in-universe rumors that can resurface, escalate, or contradict one another for comedic effect.
@@ -25,6 +27,8 @@ Grew up in Charlotte with Jordan and Glenn, with family roots in South Carolina.
 ## Dustin “Dusty” Cathcart
 
 Met Jordan while stationed together in the Marines. Dusty relentlessly offered friendship until Jordan accepted; they became chosen brothers. Known as the “MacGyver of the Marines” for solving broken, missing, and seemingly impossible problems. Retired after a shoulder injury. A devoted family man and adaptable, inventive coach.
+
+Current team: California. Dusty entered the offseason as the coaching market's most mysterious free agent before choosing the Golden Bears in Offseason Week 2. His open-to-work campaign, nationwide search, and earlier rumors remain part of his carousel history. Cal now inherits the MacGyver Multiple, the classified playbook, and the five-star quarterback who promised to follow him.
 
 ## Chris Cathcart
 
