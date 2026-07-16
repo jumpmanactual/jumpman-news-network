@@ -1,7 +1,8 @@
 const stories=[
-  {category:"History Made",title:"Universidad México becomes NCAA's first non-U.S. member",body:"Coach Jordan Thomas will lead the Panteras of Mexico City into a groundbreaking new era for college football.",meta:"5 MIN READ · BREAKING"},
-  {category:"Recruiting",title:"Five-star QB flips on signing day",body:"The nation's top passer stunned three user coaches with one last-minute decision.",meta:"2 MIN READ · 1 HR AGO"},
-  {category:"Hot Seat",title:"Pressure builds after third straight loss",body:"A preseason contender is searching for answers as the schedule gets tougher.",meta:"3 MIN READ · 2 HRS AGO"}
+  {category:"History Made",title:"Thomas chooses Universidad México",body:"Jordan Thomas takes the Panteras job as UMX becomes the NCAA's first non-U.S. member, backed by player transfers from sister school UCLA.",meta:"5 MIN READ · BREAKING"},
+  {category:"Desert Bound",title:"Chris Cathcart accepts Arizona job",body:"Cathcart is heading to Tucson with a spread-tempo vision and a mandate to turn the Wildcats into contenders.",meta:"3 MIN READ · COACHING CAROUSEL"},
+  {category:"New Era",title:"Glenn Vernon takes over at Duke",body:"Vernon brings energy and a balanced attack to Durham as the Blue Devils launch an ambitious culture rebuild.",meta:"3 MIN READ · COACHING CAROUSEL"},
+  {category:"Decision Watch",title:"Dustin Cathcart remains on the market",body:"One of the carousel's most intriguing candidates is still evaluating openings and has not committed to a program.",meta:"2 MIN READ · DEVELOPING"}
 ];
 const rankings=[
   [1,"Ohio State","7–0","—"],[2,"Metro State","7–0","▲ 2"],[3,"Georgia","6–1","▼ 1"],[4,"Oregon","6–1","▲ 1"],[5,"LSU","6–1","▼ 2"],[6,"Texas","5–2","—"],[7,"Penn State","6–1","▲ 3"],[8,"Miami","5–2","▼ 1"],[9,"Clemson","5–2","NEW"],[10,"Alabama","4–3","▼ 2"]
