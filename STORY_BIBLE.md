@@ -28,15 +28,21 @@ Born in Buffalo and raised in Charlotte. Quiet, creative, and able to build or r
 
 Current team: Florida State. Glenn initially agreed to take the Duke job, but the two sides could not finish contract negotiations. Florida State moved quickly and signed him before the season began. Duke remains part of his carousel history; all current team references should identify him as Florida State's head coach.
 
+Preseason development: Glenn intends to stay at Florida State and focus on long-term recruiting, retention, player development, and building the next level of Seminoles talent. His stability message and construction-themed recruiting Blueprint should recur throughout the season.
+
 ## Sam Small
 
 Grew up in Charlotte with Jordan and Glenn, with family roots in South Carolina. Worked in asset protection, became a correctional officer, completed the police academy, and served as a police officer in Kannapolis, North Carolina. Values protection, accountability, structure, and loyalty. After winning the national championship, he chose to return to South Carolina as head coach of the Gamecocks.
+
+Preseason development: Sam is demanding NCAA-wide compliance reform and system changes. His proposals emphasize transfer and collective transparency, standardized enforcement, documentary evidence, and his recurring concept of “football probable cause.”
 
 ## Dustin “Dusty” Cathcart
 
 Met Jordan while stationed together in the Marines. Dusty relentlessly offered friendship until Jordan accepted; they became chosen brothers. Known as the “MacGyver of the Marines” for solving broken, missing, and seemingly impossible problems. Retired after a shoulder injury. A devoted family man and adaptable, inventive coach.
 
 Current team: California. Dusty entered the offseason as the coaching market's most mysterious free agent before choosing the Golden Bears in Offseason Week 2. His open-to-work campaign, nationwide search, and earlier rumors remain part of his carousel history. Cal now inherits the MacGyver Multiple, the classified playbook, and the five-star quarterback who promised to follow him.
+
+Preseason development: Dusty was inspired by UMX's uniform reveal and has begun planning Cal's next collection. His most absurd proposal includes an infinity gauntlet, and his recurring compliance question is whether cosmic artifacts constitute an unfair advantage.
 
 ## Chris Cathcart
 
