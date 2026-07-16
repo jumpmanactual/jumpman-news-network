@@ -9,10 +9,12 @@ const rankings=[
   [1,"Indiana","16–0","—"],[2,"Miami","13–3","▲ 8"],[3,"Ole Miss","13–2","▲ 3"],[4,"Oregon","13–2","▲ 1"],[5,"Ohio State","12–2","▼ 2"],[6,"Georgia","12–2","▼ 4"],[7,"Texas Tech","12–2","▼ 3"],[8,"Texas A&M","11–2","▼ 1"],[9,"Alabama","11–4","▲ 2"],[10,"Notre Dame","10–2","▼ 1"]
 ];
 const scores=[
-  ["FINAL","#2 Metro State",38,"#11 Coastal Tech",31],["FINAL / OT","#5 LSU",27,"#14 Florida",24],["FINAL","#1 Ohio State",45,"Wisconsin",17],["FINAL","#9 Clemson",20,"#6 Texas",34]
+  ["FINAL","Charlotte Cobras",26,"Gastonia Gators",20],["FINAL","Mint Hill Mustangs",34,"Matthews Marauders",6],["FINAL / OT","Queen City Raptors",14,"Concord Crushers",13],["FINAL","Pineville Pirates",22,"Rock Hill Rockets",24]
 ];
 const players=[
-  [1,"MARCUS REED","QB · METRO STATE","2,814","28","71%"],[2,"JALEN CROSS","HB · OHIO STATE","1,226","16","7.4"],[3,"DANTE WILLIAMS","WR · OREGON","1,087","12","18.1"]
+  {rank:1,name:"C.J. Carr",school:"QB · NOTRE DAME",odds:"+750",status:"Co-favorite",case:"Efficient returning starter with an NFL-caliber ceiling and a schedule built for a national awards run."},
+  {rank:2,name:"Arch Manning",school:"QB · TEXAS",odds:"+750",status:"Co-favorite",case:"Football royalty gets another shot at converting elite talent, massive exposure, and Texas expectations into a Heisman season."},
+  {rank:3,name:"Trinidad Chambliss",school:"QB · OLE MISS",odds:"+900",status:"Top challenger",case:"The sixth-year quarterback enters 2026 with playoff experience, explosive upside, and the shortest odds behind the two favorites."}
 ];
 // COACH PROFILES — edit these fields to update the Coaches section.
 const coaches=[
@@ -40,7 +42,7 @@ const tickers=["THE DECISION: National champion Sam Small will choose a new scho
 document.querySelector('#story-grid').innerHTML=stories.map(s=>`<article class="story-card"><span class="category">${s.category}</span><h3>${s.title}</h3><p>${s.body}</p><span class="story-meta">${s.meta}</span></article>`).join('');
 document.querySelector('#rankings-list').innerHTML=rankings.map(([p,t,r,tr])=>`<div class="rank-row"><span class="pos">${p}</span><b>${t}</b><small>${r}</small><span class="trend ${tr.includes('▲')?'up':tr.includes('▼')?'down':''}">${tr}</span></div>`).join('');
 document.querySelector('#score-list').innerHTML=scores.map(([s,a,as,b,bs])=>`<article class="score-card"><span class="status">${s}</span><div class="score-team"><strong>${a}</strong><b>${as}</b></div><div class="score-team"><strong>${b}</strong><b>${bs}</b></div></article>`).join('');
-document.querySelector('#player-grid').innerHTML=players.map(([r,n,s,y,td,q])=>`<article class="player-card" data-rank="${r}"><span class="school">${s}</span><h3>${n}</h3><p>Dynamic playmaker powering a championship run.</p><div class="stats"><span><b>${y}</b><small>Yards</small></span><span><b>${td}</b><small>TDs</small></span><span><b>${q}</b><small>${r===1?'Comp':'Rate'}</small></span></div></article>`).join('');
+document.querySelector('#player-grid').innerHTML=players.map(p=>`<article class="player-card" data-rank="${p.rank}"><span class="school">${p.school}</span><h3>${p.name}</h3><p>${p.case}</p><div class="stats"><span><b>${p.odds}</b><small>Preseason odds</small></span><span><b>${p.status}</b><small>Market status</small></span><span><b>2026</b><small>Season</small></span></div></article>`).join('');
 document.querySelector('#coach-grid').innerHTML=coaches.map(c=>`<article class="coach-card"><div class="coach-photo"><img src="${c.image}" alt="${c.name}, ${c.team} ${c.role}" loading="lazy"><span>${c.team}</span></div><div class="coach-copy"><p class="coach-role">${c.role}</p><h3>${c.name}</h3><p class="coach-background">${c.background}</p><div class="coach-facts"><span><small>Record</small><b>${c.record}</b></span><span><small>Identity</small><b>${c.scheme}</b></span></div><blockquote>“${c.storyline}”</blockquote></div></article>`).join('');
 document.querySelector('#connection-map').innerHTML=`<span>Jordan</span><i>Charlotte</i><span>Glenn</span><i>Charlotte</i><span>Sam</span><i>Marines</i><span>Dusty</span><i>Family</i><span>Chris</span>`;
 document.querySelector('#lore-grid').innerHTML=lore.map((l,i)=>`<article class="lore-card"><span class="lore-number">0${i+1}</span><p>${l.year}</p><h3>${l.title}</h3><div>${l.body}</div></article>`).join('');
