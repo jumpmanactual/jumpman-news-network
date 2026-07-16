@@ -1,0 +1,2 @@
+.ranking-line{grid-template-columns:55px 48px 1fr auto}.team-logo{width:38px;height:38px;display:grid;place-items:center;border-radius:50%;background:#edf1f6;overflow:hidden}.team-logo img{width:34px;height:34px;object-fit:contain}.team-logo.market{background:#3c4857;color:#fff;font:11px "Archivo Black"}@media(max-width:520px){.ranking-line{grid-template-columns:45px 40px 1fr}.ranking-line .stat{grid-column:3;margin-top:5px;text-align:left;font-size:11px}.team-logo{width:34px;height:34px}.team-logo img{width:30px;height:30px}}
+
