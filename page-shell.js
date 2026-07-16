@@ -1,2 +1,2 @@
 const navButton=document.querySelector('.menu-button'),navLinks=document.querySelector('.nav-links');if(navButton){navButton.addEventListener('click',()=>{const open=navLinks.classList.toggle('open');navButton.setAttribute('aria-expanded',open)})}document.querySelector('#year')?.append(new Date().getFullYear());
-
+if(location.pathname.endsWith('/news.html')){const statusStyles=document.createElement('link');statusStyles.rel='stylesheet';statusStyles.href='dynasty-status.css?v=20260716-1';document.head.append(statusStyles)}
