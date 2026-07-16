@@ -5,6 +5,13 @@ const stories=[
   {category:"Decision Watch",title:"Dustin Cathcart remains on the market",body:"One of the carousel's most intriguing candidates is still evaluating openings and has not committed to a program.",meta:"2 MIN READ · DEVELOPING"},
   {category:"Breaking News",title:"Sam Small chooses South Carolina",body:"The defending national champion is returning to his family's South Carolina roots to lead the Gamecocks into a new era.",meta:"JUST IN · THE DECISION IS FINAL"}
 ];
+const heroSlides=[
+  {tag:"Breaking News",title:"SAM CHOOSES|SOUTH CAROLINA.",summary:"The defending national champion opens the evidence bag and returns to his family's South Carolina roots.",image:"assets/coaches/sam-small-decision.png",position:"center 25%"},
+  {tag:"History Made",title:"THOMAS TAKES|FOOTBALL GLOBAL.",summary:"Jordan Thomas leads Universidad México into the NCAA as the first program from outside the United States.",image:"assets/coaches/jordan-thomas-umx-v2.png",position:"center 24%"},
+  {tag:"Desert Bound",title:"THE NEW SCHOOL|HITS ARIZONA.",summary:"Chris Cathcart takes his 104-play tempo experiment to Tucson—and promises the old guard will feel every snap.",image:"assets/coaches/chris-cathcart-arizona.png",position:"center 22%"},
+  {tag:"Blueprint Era",title:"GLENN BUILDS|A NEW DUKE.",summary:"The quiet craftsman brings the Cordless Drill offense and Table Saw package to Durham.",image:"assets/coaches/glenn-vernon-duke.png",position:"center 20%"},
+  {tag:"Decision Watch",title:"WHO WILL HIRE|DUSTY?",summary:"The MacGyver of the Marines remains the carousel's most inventive—and unpredictable—available coach.",image:"assets/coaches/dustin-cathcart-open-to-work.png",position:"center 22%"}
+];
 const rankings=[
   [1,"Indiana","16–0","—"],[2,"Miami","13–3","▲ 8"],[3,"Ole Miss","13–2","▲ 3"],[4,"Oregon","13–2","▲ 1"],[5,"Ohio State","12–2","▼ 2"],[6,"Georgia","12–2","▼ 4"],[7,"Texas Tech","12–2","▼ 3"],[8,"Texas A&M","11–2","▼ 1"],[9,"Alabama","11–4","▲ 2"],[10,"Notre Dame","10–2","▼ 1"]
 ];
@@ -64,6 +71,15 @@ document.querySelector('#article-grid').innerHTML=articles.map((a,i)=>`<details 
 document.querySelector('#social-posts').innerHTML=socialPosts.map(p=>`<article class="social-post"><div class="social-avatar">${p.avatar}</div><div><div class="social-byline"><b>${p.name}</b><span>${p.handle} · ${p.time}</span></div><p>${p.text}</p><a href="#articles" aria-label="Fictional hashtag">${p.tags}</a><div class="social-actions" aria-hidden="true"><span>♡</span><span>↻</span><span>↗</span></div></div></article>`).join('');
 const mobilePosts=[...socialPosts,...socialPosts];
 document.querySelector('#mobile-social-track').innerHTML=mobilePosts.map(p=>`<span><b>${p.handle}</b> ${p.text} <i>${p.tags}</i></span>`).join('');
+const heroImage=document.querySelector('#hero-image'),heroTag=document.querySelector('#hero-tag'),heroTitle=document.querySelector('#hero-title'),heroSummary=document.querySelector('#hero-summary'),heroDots=document.querySelector('#hero-dots'),heroStory=document.querySelector('.lead-story');
+let heroIndex=0,heroTimer;
+heroDots.innerHTML=heroSlides.map((_,i)=>`<button aria-label="Show story ${i+1}" data-slide="${i}"><span>0${i+1}</span></button>`).join('');
+function showHero(index){heroIndex=(index+heroSlides.length)%heroSlides.length;const slide=heroSlides[heroIndex];heroStory.classList.add('is-changing');setTimeout(()=>{heroImage.src=slide.image;heroImage.style.objectPosition=slide.position;heroTag.textContent=slide.tag;const [line1,line2]=slide.title.split('|');heroTitle.innerHTML=`${line1}<br><span>${line2}</span>`;heroSummary.textContent=slide.summary;heroDots.querySelectorAll('button').forEach((dot,i)=>dot.classList.toggle('active',i===heroIndex));heroStory.classList.remove('is-changing')},180)}
+function startHero(){clearInterval(heroTimer);if(!matchMedia('(prefers-reduced-motion: reduce)').matches)heroTimer=setInterval(()=>showHero(heroIndex+1),7000)}
+document.querySelector('#hero-prev').addEventListener('click',()=>{showHero(heroIndex-1);startHero()});document.querySelector('#hero-next').addEventListener('click',()=>{showHero(heroIndex+1);startHero()});heroDots.addEventListener('click',e=>{const dot=e.target.closest('button');if(dot){showHero(Number(dot.dataset.slide));startHero()}});heroStory.addEventListener('mouseenter',()=>clearInterval(heroTimer));heroStory.addEventListener('mouseleave',startHero);heroStory.addEventListener('focusin',()=>clearInterval(heroTimer));heroStory.addEventListener('focusout',startHero);showHero(0);startHero();
+let heroTouchStart=0;
+heroStory.addEventListener('touchstart',e=>{heroTouchStart=e.changedTouches[0].clientX},{passive:true});
+heroStory.addEventListener('touchend',e=>{const distance=e.changedTouches[0].clientX-heroTouchStart;if(Math.abs(distance)>50){showHero(heroIndex+(distance<0?1:-1));startHero()}},{passive:true});
 const ticker=[...tickers,...tickers].map(t=>`<span>${t}</span>`).join('');document.querySelector('#ticker-track').innerHTML=ticker;
 const now=new Date();document.querySelector('#date-stamp').textContent=now.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase();document.querySelector('#year').textContent=now.getFullYear();
 const button=document.querySelector('.menu-button'),links=document.querySelector('.nav-links');button.addEventListener('click',()=>{const open=links.classList.toggle('open');button.setAttribute('aria-expanded',open)});links.addEventListener('click',()=>{links.classList.remove('open');button.setAttribute('aria-expanded','false')});

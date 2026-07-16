@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="social-rail.css?v=20260716-1" />
   <link rel="stylesheet" href="mobile-social.css?v=20260716-1" />
   <link rel="stylesheet" href="offseason.css?v=20260716-1" />
+  <link rel="stylesheet" href="hero-carousel.css?v=20260716-1" />
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -57,15 +58,16 @@
   <main id="main">
     <section class="hero shell" id="top">
       <article class="lead-story">
-        <div class="photo-field" role="img" aria-label="Stadium lights over a football field">
-          <span class="field-number">01</span>
-          <div class="yard-lines"></div>
-        </div>
+        <div class="hero-visual"><img id="hero-image" src="assets/coaches/sam-small-decision.png" alt="" aria-hidden="true"></div>
         <div class="lead-copy">
-          <span class="tag">Offseason Central</span>
-          <h1>THE CAROUSEL<br><span>NEVER SLEEPS.</span></h1>
-          <p>No games yet—just secret interviews, international expansion, transfer chaos, and championship coaches deciding where to take their talents next.</p>
-          <a href="#headlines" class="button">Follow every decision <span>→</span></a>
+          <span class="tag" id="hero-tag">Breaking News</span>
+          <h1 id="hero-title">SAM CHOOSES<br><span>SOUTH CAROLINA.</span></h1>
+          <p id="hero-summary">The defending national champion is returning to his family roots to lead the Gamecocks.</p>
+          <a href="#articles" class="button" id="hero-link">Read the story <span>→</span></a>
+        </div>
+        <div class="hero-controls">
+          <div class="hero-dots" id="hero-dots" aria-label="Choose top story"></div>
+          <div class="hero-arrows"><button id="hero-prev" aria-label="Previous story">←</button><button id="hero-next" aria-label="Next story">→</button></div>
         </div>
       </article>
       <aside class="week-panel">
@@ -156,6 +158,6 @@
     <strong><span></span>SOCIAL</strong>
     <div class="mobile-social-window"><div class="mobile-social-track" id="mobile-social-track"></div></div>
   </div>
-  <script src="app.js?v=20260716-12"></script>
+  <script src="app.js?v=20260716-13"></script>
 </body>
 </html>
