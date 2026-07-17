@@ -56,3 +56,7 @@ Dusty's son and the youngest coach in the circle. Grew up around his father's Ma
 - Chris is Dusty's son and views Jordan as an uncle.
 - Glenn and Sam connect the Charlotte brotherhood to the Cathcart family through Jordan.
 - Every game, recruiting battle, and championship race can test a friendship or family bond.
+
+## Publishing Rule: Supplied Screenshots
+
+User-provided screenshots are reference material only and must not be published directly unless the user explicitly asks JNN to use that exact graphic. Polls, awards, schedules, scores, and similar screenshots should be rebuilt as original JNN layouts using the supplied information. This rule applies to all future site updates.
