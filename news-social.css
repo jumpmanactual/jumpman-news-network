@@ -8,6 +8,7 @@
 .social-news-rail header b{font:22px "Archivo Black"}
 .social-news-rail header small{display:block;color:#8ea0b4;font-size:9px;line-height:1.4;margin-top:7px;letter-spacing:0;text-transform:none}
 .social-feed-window{max-height:760px;overflow-y:auto;scrollbar-width:thin;scrollbar-color:#e31837 #071a33;scroll-behavior:smooth}
+.social-news-rail.feed-paused header span::after{content:' · PAUSED';color:#fff}.social-news-rail.feed-paused .social-feed-window{outline:2px solid #e31837;outline-offset:-2px}
 .social-news-rail article{padding:18px 20px;border-bottom:1px solid #ffffff18}
 .social-news-rail article>div{display:flex;align-items:center;justify-content:space-between;gap:8px}.social-news-rail article strong{font-size:12px}.social-news-rail article small{color:#8ea0b4;font-size:8px;text-align:right}
 .social-news-rail article p{font-size:12px;line-height:1.5;color:#d8e0e8;margin:9px 0}
