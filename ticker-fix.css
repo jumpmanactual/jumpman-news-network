@@ -1,0 +1,7 @@
+.ticker-window{min-width:0;overflow:hidden;white-space:nowrap}
+.ticker-track{display:flex;width:max-content;min-width:max-content;transform:translate3d(0,0,0);will-change:transform;animation:jnn-headline-crawl 42s linear infinite!important;animation-play-state:running!important}
+.ticker-track span{display:inline-block;flex:0 0 auto}
+@keyframes jnn-headline-crawl{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
+.mobile-social-track,.mobile-social-ticker>div>span{will-change:transform;animation-play-state:running!important}
+@media(max-width:720px){.ticker-track{animation-duration:55s!important}.mobile-social-track{animation-duration:150s!important}}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:jnn-headline-crawl 70s linear infinite!important}.mobile-social-track,.mobile-social-ticker>div>span{animation-play-state:running!important}}
