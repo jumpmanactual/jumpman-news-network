@@ -46,7 +46,7 @@ Preseason development: Dusty was inspired by UMX's uniform reveal and has begun 
 
 ## Chris Cathcart
 
-Dusty's son and the youngest coach in the circle. Grew up around his father's Marine background and the extended family created through Jordan. Views Jordan as an uncle. Respects the older generation but intends to prove that his faster, newer methods can beat theirs.
+Dusty's son and the youngest coach in the circle. Grew up around his father's Marine background and the extended family created through Jordan. Views Jordan as an uncle. Chris's defining storyline is not tempo or speed: it is the pressure of being the youngest coach and his determination to prove that he belongs beside—and can defeat—the veteran coaches who raised, taught, and shaped him. He respects the older generation but refuses to live in its shadow or be treated like the kid at the table. His Arizona tenure is a test of independence, credibility, and whether the next generation can earn its place on its own terms.
 
 ## Connections
 
