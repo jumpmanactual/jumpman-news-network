@@ -24,11 +24,11 @@ Born in San Diego and raised as a Marine Corps military brat, Jordan eventually 
 
 ## Glenn Vernon
 
-Born in Buffalo and raised in Charlotte. Quiet, creative, and able to build or repair nearly anything. Known as the group's ultimate DIY problem-solver. Nicknamed “Kobe” because of his resemblance to Kobe Bryant and the basketball ability to support it. Coaches with calm confidence and a builder's mind.
+Born in Buffalo and raised in Charlotte. Quiet, creative, and willing to pick up nearly any odd job that needs doing. Glenn has worked an absurd variety of jobs—construction, repairs, deliveries, event setup, maintenance, moving, landscaping, overnight shifts, and assignments nobody else could clearly describe. Building and fixing things are only part of his larger identity: he is the group's ultimate utility man, able to walk into an unfamiliar situation, learn the work, and finish the shift. Nicknamed “Kobe” because of his resemblance to Kobe Bryant and the basketball ability to support it. He coaches with calm confidence, broad practical experience, and the perspective of a man who has probably already worked a stranger version of the problem.
 
 Current team: Florida State. Glenn initially agreed to take the Duke job, but the two sides could not finish contract negotiations. Florida State moved quickly and signed him before the season began. Duke remains part of his carousel history; all current team references should identify him as Florida State's head coach.
 
-Preseason development: Glenn intends to stay at Florida State and focus on long-term recruiting, retention, player development, and building the next level of Seminoles talent. His stability message and construction-themed recruiting Blueprint should recur throughout the season.
+Preseason development: Glenn intends to stay at Florida State and focus on long-term recruiting, retention, and player development. His stability message should recur throughout the season, but his storylines should draw from his entire odd-job history—not only construction. Each new football problem can remind Glenn of a wildly different former job, producing practical solutions, questionable résumés, and stories nobody can verify.
 
 ## Sam Small
 
