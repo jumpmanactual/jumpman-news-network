@@ -40,9 +40,9 @@ Preseason development: Sam is demanding NCAA-wide compliance reform and system c
 
 Met Jordan while stationed together in the Marines. Dusty relentlessly offered friendship until Jordan accepted; they became chosen brothers. Known as the “MacGyver of the Marines” for solving broken, missing, and seemingly impossible problems. Retired after a shoulder injury. A devoted family man and adaptable, inventive coach.
 
-Current team: California. Dusty entered the offseason as the coaching market's most mysterious free agent before choosing the Golden Bears in Offseason Week 2. His open-to-work campaign, nationwide search, and earlier rumors remain part of his carousel history. Cal now inherits the MacGyver Multiple, the classified playbook, and the five-star quarterback who promised to follow him.
+Current team: Washington. Dusty entered the offseason as the coaching market's most mysterious free agent, chose California in Offseason Week 2, and began planning an infinity-gauntlet uniform collection before accepting Washington's offer to become head coach during the preseason. The open-to-work campaign and brief Cal chapter remain permanent carousel history. Washington now inherits the MacGyver Multiple, the classified playbook, and the five-star quarterback who promised to follow him.
 
-Preseason development: Dusty was inspired by UMX's uniform reveal and has begun planning Cal's next collection. His most absurd proposal includes an infinity gauntlet, and his recurring compliance question is whether cosmic artifacts constitute an unfair advantage.
+Preseason development: Dusty was inspired by UMX's uniform reveal and began planning Cal's next collection before moving to Washington. His infinity-gauntlet sketches traveled with him to Seattle, and his recurring compliance question remains whether cosmic artifacts constitute an unfair advantage. Washington may now receive a rainproof version.
 
 ## Chris Cathcart
 
