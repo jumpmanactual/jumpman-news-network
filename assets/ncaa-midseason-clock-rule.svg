@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">NCAA emergency clock adjustment</title>
+  <desc id="desc">Original JNN graphic announcing six-minute quarters and an accelerated play clock.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06182f"/><stop offset=".58" stop-color="#102b4a"/><stop offset="1" stop-color="#5b1727"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ff3655" stop-opacity=".46"/><stop offset="1" stop-color="#ff3655" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-opacity=".4"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)"/><circle cx="1300" cy="160" r="430" fill="url(#glow)"/>
+  <path d="M0 760L650 110h280L290 900H0z" fill="#fff" opacity=".035"/><path d="M1160 0l440 440v460h-120L890 310z" fill="#e31837" opacity=".1"/>
+  <g transform="translate(112 94)">
+    <rect width="310" height="58" fill="#e31837"/><text x="26" y="39" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" letter-spacing="4">BREAKING RULE</text>
+    <text y="150" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" letter-spacing="8">NCAA CLOCK DIRECTIVE</text>
+    <text y="260" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="112" font-weight="900">LESS GAME.</text>
+    <text y="372" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="112" font-weight="900">MORE CLOCK.</text>
+    <text y="455" fill="#c5d1df" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" letter-spacing="2">MIDSEASON BROADCAST WINDOW ADJUSTMENT</text>
+  </g>
+  <g transform="translate(1070 175)" filter="url(#shadow)">
+    <circle cx="230" cy="230" r="206" fill="#f6f8fb" stroke="#e31837" stroke-width="18"/><circle cx="230" cy="230" r="165" fill="#071a33" stroke="#9eabb9" stroke-width="5"/>
+    <g stroke="#fff" stroke-width="8"><path d="M230 76v30M230 354v30M76 230h30M354 230h30"/></g>
+    <path d="M230 230V125M230 230l104 60" stroke="#ff2448" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="230" cy="230" r="18" fill="#fff"/>
+    <text x="230" y="272" text-anchor="middle" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="116" font-weight="900">6</text>
+    <text x="230" y="327" text-anchor="middle" fill="#c5d1df" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="800" letter-spacing="5">MIN QUARTERS</text>
+  </g>
+  <g transform="translate(112 650)">
+    <rect width="710" height="122" rx="4" fill="#071a33" stroke="#ffffff" stroke-opacity=".24"/><rect width="14" height="122" fill="#e31837"/>
+    <text x="48" y="49" fill="#ff4b67" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="900" letter-spacing="3">ACCELERATED CLOCK</text>
+    <text x="48" y="91" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">ON — EFFECTIVE IMMEDIATELY</text>
+  </g>
+  <g transform="translate(112 834)"><rect width="1376" height="2" fill="#fff" opacity=".25"/><text y="-20" fill="#c5d1df" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="3">JNN NEWS DESK  •  PROTECTING NATIONAL TELEVISION WINDOWS</text></g>
+  <text x="1490" y="82" text-anchor="end" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="46">JNN</text>
+</svg>
