@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+ <title id="t">NCAA restores seven-minute quarters</title><desc id="d">Original JNN breaking rules graphic showing a seven-minute game clock and an accelerated play clock.</desc>
+ <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#071a33"/><stop offset="1" stop-color="#532132"/></linearGradient><pattern id="p" width="55" height="55" patternUnits="userSpaceOnUse"><path d="M55 0H0V55" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+ <rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#p)"/>
+ <rect x="75" y="65" width="320" height="58" fill="#f0143c"/><text x="235" y="104" text-anchor="middle" fill="#fff" font-family="Arial" font-size="24" font-weight="900" letter-spacing="4">RULE REVERSAL</text>
+ <text x="77" y="205" fill="#c9d2df" font-family="Arial" font-size="31" font-weight="700" letter-spacing="7">NCAA PUTS THE MINUTE BACK</text>
+ <text x="76" y="397" fill="#fff" font-family="Arial Black,Arial" font-size="126" font-weight="900">SEVEN-MINUTE</text><text x="76" y="535" fill="#fff" font-family="Arial Black,Arial" font-size="126" font-weight="900">QUARTERS RETURN</text>
+ <circle cx="1310" cy="350" r="195" fill="#071a33" stroke="#f0143c" stroke-width="18"/><text x="1310" y="408" text-anchor="middle" fill="#fff" font-family="Arial Black,Arial" font-size="170">7:00</text>
+ <line x1="76" y1="620" x2="1520" y2="620" stroke="#f0143c" stroke-width="8"/><text x="76" y="705" fill="#fff" font-family="Arial Black,Arial" font-size="58">ACCELERATED PLAY CLOCK STAYS ON</text><text x="76" y="770" fill="#c9d2df" font-family="Arial" font-size="30">Broadcast pressure remains. Regulation time returns.</text>
+ <text x="1515" y="845" text-anchor="end" fill="#fff" font-family="Arial Black,Arial" font-size="42">JNN</text>
+</svg>
