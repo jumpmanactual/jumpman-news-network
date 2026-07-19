@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">UCF defeats Florida State 22 to 8</title>
+  <desc id="desc">Original JNN final score graphic with UCF gold and Florida State garnet styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#071a31"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#23120b"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#ffcc00"/><stop offset="1" stop-color="#b8922e"/></linearGradient>
+    <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)"/>
+  <path d="M0 720L530 235 900 900H0Z" fill="#782f40" opacity=".32"/><path d="M1600 0L1010 0 700 900H1600Z" fill="#ffcc00" opacity=".08"/>
+  <text x="90" y="105" fill="#ef1738" font-family="Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="8">JNN FINAL · WEEK 3</text>
+  <text x="90" y="230" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="96" font-weight="900">THE KICKER</text>
+  <text x="90" y="325" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="96" font-weight="900">TAKES THE STAGE</text>
+  <text x="95" y="390" fill="#b8c4d5" font-family="Arial, sans-serif" font-size="31" font-weight="700">WILL STONE GOES 5-FOR-5 AS UCF HANDS GLENN HIS FIRST FSU LOSS</text>
+  <g transform="translate(125 500)"><text x="0" y="55" fill="#ffcc00" font-family="Arial Black, Arial, sans-serif" font-size="72">UCF</text><text x="260" y="55" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="112">22</text></g>
+  <line x1="125" y1="610" x2="720" y2="610" stroke="#fff" stroke-opacity=".24"/>
+  <g transform="translate(125 665)"><text x="0" y="55" fill="#ceb888" font-family="Arial Black, Arial, sans-serif" font-size="58">FLORIDA STATE</text><text x="585" y="55" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="88">8</text></g>
+  <g transform="translate(900 485)"><rect width="585" height="255" rx="12" fill="#071a31" stroke="#ffcc00" stroke-width="3"/><text x="50" y="70" fill="#ffcc00" font-family="Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="4">GAME CONTROL</text><text x="50" y="130" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="42">5 FIELD GOALS</text><text x="50" y="182" fill="#fff" font-family="Arial Black, Arial, sans-serif" font-size="42">3 FSU TURNOVERS</text><text x="50" y="225" fill="#aab7c8" font-family="Arial, sans-serif" font-size="25">UCF possessed the ball for 17:01</text></g>
+  <text x="90" y="850" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">JUMPMAN NEWS NETWORK · TALLAHASSEE BUREAU</text>
+</svg>
