@@ -8,7 +8,8 @@ const stories=[
     "image": "assets/stories/ai-generated-1785683932228.png",
     "body": [
       "The site is going through updates to fit all of our content\n"
-    ]
+    ],
+    "year": "2026-2027"
   }
 ];
 stories.push({id:"dusty-washington",week:"Preseason",category:"Breaking News",title:"Dusty leaves Cal chapter behind and accepts Washington offer",dek:"The MacGyver of the Marines is taking the Classified offense north to Seattle.",image:"assets/coaches/dustin-cathcart-washington-v2.png",body:["Dustin ‘Dusty’ Cathcart has accepted Washington's offer to become head coach, ending a brief California chapter before the Golden Bears ever played an official game under him. The move sends the MacGyver Multiple to Seattle and adds another unexpected turn to the dynasty's busiest coaching carousel.","Washington's presentation reportedly included a view of Husky Stadium, a weatherproof toolbox, unlimited access to the engineering department, and a written promise that nobody would ask why Dusty needed the stadium's electrical schematics before signing his contract. The five-star quarterback tied to Dusty's future has already replaced a bear emoji with a purple-and-gold W.","Cal remains part of the story. Dusty's open-to-work campaign led him to Berkeley, where he designed Warranty Bear uniforms and asked whether infinity gauntlets violated NCAA equipment rules. Those sketches are now headed to Seattle, where sources expect a rainproof prototype tentatively named the Infinity Dawg.","Jordan congratulated his chosen brother and forwarded Nick O'Leary the new Seattle address. Chris called the move another chance to prove himself against his father. Glenn offered to inspect Husky Stadium's roof supports. Sam opened a file labeled INTERSTATE COACHING TRANSACTION. Dusty simply asked where Washington keeps the spare extension cords."]});
