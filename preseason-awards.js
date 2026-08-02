@@ -1,9 +1,4 @@
-const preseasonFavorites = [
-  ['M. Reed', 'QB · Texas A&M', 'texas-am'],
-  ['E. Wilson III', 'WR · LSU', 'lsu'],
-  ['A. Colandrea', 'QB · Nebraska', 'nebraska'],
-  ['K. Taylor', 'WR · Mississippi State', 'mississippi-state']
-];
+const preseasonFavorites=[];
 document.querySelector('.page-hero .eyebrow').textContent='2026 · Week 2';document.querySelector('.page-hero p:last-child').textContent='The current Heisman watch, national weekly honors, and dynasty milestones.';
 
 const heismanCard = document.querySelectorAll('.award-card')[1];

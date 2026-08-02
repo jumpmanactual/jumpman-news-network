@@ -1,0 +1,202 @@
+[
+  {
+    "id": "umxpanteraking",
+    "handle": "@UMxPanteraKing",
+    "teamSlug": "custom:universidad-mexico",
+    "favoriteTeam": "Universidad Mexico Panteras",
+    "personality": "diehard",
+    "personalityName": "The Diehard"
+  },
+  {
+    "id": "disastercat",
+    "handle": "@DisasterCat",
+    "teamSlug": "custom:universidad-mexico",
+    "favoriteTeam": "Universidad Mexico Panteras",
+    "personality": "doomer",
+    "personalityName": "The Doomer"
+  },
+  {
+    "id": "panthervision",
+    "handle": "@PantherVision",
+    "teamSlug": "custom:universidad-mexico",
+    "favoriteTeam": "Universidad Mexico Panteras",
+    "personality": "analyst",
+    "personalityName": "The Analyst"
+  },
+  {
+    "id": "locopumalaughs",
+    "handle": "@LocoPumaLaughs",
+    "teamSlug": "custom:universidad-mexico",
+    "favoriteTeam": "Universidad Mexico Panteras",
+    "personality": "troll",
+    "personalityName": "The Troll"
+  },
+  {
+    "id": "sneakypantera",
+    "handle": "@SneakyPantera",
+    "teamSlug": "custom:universidad-mexico",
+    "favoriteTeam": "Universidad Mexico Panteras",
+    "personality": "insider",
+    "personalityName": "The Insider"
+  },
+  {
+    "id": "gamecockglory",
+    "handle": "@GamecockGlory",
+    "teamSlug": "real:south-carolina",
+    "favoriteTeam": "South Carolina Gamecocks",
+    "personality": "diehard",
+    "personalityName": "The Diehard"
+  },
+  {
+    "id": "despairingrooster",
+    "handle": "@DespairingRooster",
+    "teamSlug": "real:south-carolina",
+    "favoriteTeam": "South Carolina Gamecocks",
+    "personality": "doomer",
+    "personalityName": "The Doomer"
+  },
+  {
+    "id": "thegarnetguru",
+    "handle": "@TheGarnetGuru",
+    "teamSlug": "real:south-carolina",
+    "favoriteTeam": "South Carolina Gamecocks",
+    "personality": "analyst",
+    "personalityName": "The Analyst"
+  },
+  {
+    "id": "clucknchuckles",
+    "handle": "@ClucknChuckles",
+    "teamSlug": "real:south-carolina",
+    "favoriteTeam": "South Carolina Gamecocks",
+    "personality": "troll",
+    "personalityName": "The Troll"
+  },
+  {
+    "id": "cockyconnection",
+    "handle": "@CockyConnection",
+    "teamSlug": "real:south-carolina",
+    "favoriteTeam": "South Carolina Gamecocks",
+    "personality": "insider",
+    "personalityName": "The Insider"
+  },
+  {
+    "id": "loyaldawg4life",
+    "handle": "@LoyalDawg4Life",
+    "teamSlug": "real:washington",
+    "favoriteTeam": "Washington Huskies",
+    "personality": "diehard",
+    "personalityName": "The Diehard"
+  },
+  {
+    "id": "cryinhusky",
+    "handle": "@CryinHusky",
+    "teamSlug": "real:washington",
+    "favoriteTeam": "Washington Huskies",
+    "personality": "doomer",
+    "personalityName": "The Doomer"
+  },
+  {
+    "id": "dawgxandos",
+    "handle": "@DawgXandOs",
+    "teamSlug": "real:washington",
+    "favoriteTeam": "Washington Huskies",
+    "personality": "analyst",
+    "personalityName": "The Analyst"
+  },
+  {
+    "id": "uwjesterbro",
+    "handle": "@UWJesterBro",
+    "teamSlug": "real:washington",
+    "favoriteTeam": "Washington Huskies",
+    "personality": "troll",
+    "personalityName": "The Troll"
+  },
+  {
+    "id": "washingtondeeppost",
+    "handle": "@WashingtonDeepPost",
+    "teamSlug": "real:washington",
+    "favoriteTeam": "Washington Huskies",
+    "personality": "insider",
+    "personalityName": "The Insider"
+  },
+  {
+    "id": "funnycougar",
+    "handle": "@FunnyCougar",
+    "teamSlug": "real:byu",
+    "favoriteTeam": "BYU Cougars",
+    "personality": "troll",
+    "personalityName": "The Troll"
+  },
+  {
+    "id": "deepinbyu",
+    "handle": "@DeepInBYU",
+    "teamSlug": "real:byu",
+    "favoriteTeam": "BYU Cougars",
+    "personality": "analyst",
+    "personalityName": "The Analyst"
+  },
+  {
+    "id": "byuinsider",
+    "handle": "@BYUInsider",
+    "teamSlug": "real:byu",
+    "favoriteTeam": "BYU Cougars",
+    "personality": "insider",
+    "personalityName": "The Insider"
+  },
+  {
+    "id": "byudoom",
+    "handle": "@BYUDoom",
+    "teamSlug": "real:byu",
+    "favoriteTeam": "BYU Cougars",
+    "personality": "doomer",
+    "personalityName": "The Doomer"
+  },
+  {
+    "id": "cougarheart",
+    "handle": "@CougarHeart",
+    "teamSlug": "real:byu",
+    "favoriteTeam": "BYU Cougars",
+    "personality": "diehard",
+    "personalityName": "The Diehard"
+  },
+  {
+    "id": "tomahawkchop",
+    "handle": "@tomahawkchop",
+    "teamSlug": "real:florida-state",
+    "favoriteTeam": "Florida State Seminoles",
+    "personality": "troll",
+    "personalityName": "The Troll"
+  },
+  {
+    "id": "fsudataroom",
+    "handle": "@FSUDataRoom",
+    "teamSlug": "real:florida-state",
+    "favoriteTeam": "Florida State Seminoles",
+    "personality": "analyst",
+    "personalityName": "The Analyst"
+  },
+  {
+    "id": "painfullyfsu",
+    "handle": "@PainfullyFSU",
+    "teamSlug": "real:florida-state",
+    "favoriteTeam": "Florida State Seminoles",
+    "personality": "doomer",
+    "personalityName": "The Doomer"
+  },
+  {
+    "id": "theflostate",
+    "handle": "@theFLoState",
+    "teamSlug": "real:florida-state",
+    "favoriteTeam": "Florida State Seminoles",
+    "personality": "diehard",
+    "personalityName": "The Diehard"
+  },
+  {
+    "id": "notcoachglenn",
+    "handle": "@notCoachGlenn",
+    "teamSlug": "real:florida-state",
+    "favoriteTeam": "Florida State Seminoles",
+    "personality": "insider",
+    "personalityName": "The Insider"
+  }
+]

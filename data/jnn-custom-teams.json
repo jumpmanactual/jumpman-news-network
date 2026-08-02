@@ -1,0 +1,15 @@
+[
+  {
+    "id": "universidad-mexico",
+    "name": "Universidad Mexico",
+    "nickname": "Panteras",
+    "abbreviation": "UMX",
+    "cityState": "Mexico City, Mexico",
+    "colors": [
+      "#006847",
+      "#c89630",
+      "#ce1126"
+    ],
+    "logo": "assets/custom-teams/Untitled-37.png"
+  }
+]

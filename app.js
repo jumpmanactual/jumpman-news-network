@@ -15,9 +15,7 @@ const heroSlides=[
 const rankings=[
   [1,"Ohio State","0–0","—"],[2,"Oregon","0–0","—"],[3,"Notre Dame","0–0","—"],[4,"Georgia","0–0","—"],[5,"Indiana","0–0","—"],[6,"Miami","0–0","—"],[7,"Texas","0–0","—"],[8,"Texas A&M","0–0","—"],[9,"Ole Miss","0–0","—"],[10,"Oklahoma","0–0","—"]
 ];
-const scores=[
-  ["FINAL","Charlotte Cobras",26,"Gastonia Gators",20],["FINAL","Mint Hill Mustangs",34,"Matthews Marauders",6],["FINAL / OT","Queen City Raptors",14,"Concord Crushers",13],["FINAL","Pineville Pirates",22,"Rock Hill Rockets",24]
-];
+const scores=[];
 const players=[
   {rank:1,name:"Jeremiah Smith",school:"WR · OHIO STATE",odds:"No. 1",status:"Favorite",case:"Ohio State's game-breaking receiver opens the dynasty preseason at the front of the Heisman field."},
   {rank:2,name:"Dante Moore",school:"QB · OREGON",odds:"No. 2",status:"Favorite",case:"Oregon's quarterback enters the season positioned to turn a playoff chase into a national awards campaign."},
