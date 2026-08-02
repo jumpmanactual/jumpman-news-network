@@ -83,7 +83,120 @@ const conversationPlans={
   'college-football-tonight-week2':[['Universidad México','The first win in program history made the broadcast. Somebody save the Durham episode forever.'],['BYU','We watched the 35–14 lead again. We also watched the fourth quarter. Chris will not need a third viewing.'],['Florida State','Two games, two wins, and Glenn still found time to work the postgame broadcast equipment shift.'],['South Carolina','Sam had the bye week and still watched every frame with an evidence log open.']]
 };
 const voicesByTeam=Object.fromEntries(fanVoices.map(voice=>[voice.team,voice]));
-const jnnChirpReactions=[];
+const jnnChirpReactions=[
+  {
+    "handle": "@notCoachGlenn",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Florida State vs Pittsburgh",
+    "text": "Hearing that FSU's win over Pittsburgh highlights the depth on this roster, particularly in the second half. Worth monitoring how this momentum might impact some of our younger players getting more snaps in upcoming games. Keep an eye on this as it could shift some positions.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@theFLoState",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Florida State vs Pittsburgh",
+    "text": "Another win for the Noles! Proud of how we handled business and showed our strength on the field. We move, and this is what our program is all about!",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@FSUDataRoom",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Florida State vs Pittsburgh",
+    "text": "Florida State's victory was driven by a balanced offensive approach, but the defining factor was the defense's domination at the line of scrimmage, resulting in 4 sacks and limiting Pittsburgh's rushing attack to just 2.8 yards per carry. The game plan effectively neutralized Pittsburgh's strengths by exploiting mismatches in both protection schemes and skill positions. Despite the scoreboard, the efficiency numbers highlight a more decisive performance than the final score suggests.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@LoyalDawg4Life",
+    "team": "Washington Huskies",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "Tough game, but we know this team has the heart to bounce back. Real fans aren't going anywhere. We'll be back stronger!",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@DawgXandOs",
+    "team": "Washington Huskies",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "The game was decided at the line of scrimmage, where South Carolina's defensive line dominated, disrupting our backfield and limiting YAC. Both things can be true: while some play calls left room for improvement, the execution against the blitz was lacking across the board. It's clear our younger players will need focused development to improve protection schemes moving forward.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@WashingtonDeepPost",
+    "team": "Washington Huskies",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "Hearing that the coaching staff anticipated some challenges against South Carolina, but the 49-21 outcome highlights areas needing urgent review. Expect potential roster shifts, as adjustments seem necessary. Keep an eye on future practices; changes could be forthcoming.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@TheGarnetGuru",
+    "team": "South Carolina Gamecocks",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "While the 49-21 scoreline suggests a dominant performance by South Carolina, it's essential to note that the Gamecocks' offensive efficiency, particularly on third downs, was a game-changer against Washington's defense. The decision to frequently use play-action passes allowed the team to exploit mismatches in the secondary effectively. This tactical approach, combined with a strong showing on the line of scrimmage, was crucial in securing the win.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@DespairingRooster",
+    "team": "South Carolina Gamecocks",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "Sure, we won, but let's not get too comfortable. Our defense gave up 21 points to a team that had no business scoring on us. We won't stand a chance against any serious competition if this keeps up.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@ClucknChuckles",
+    "team": "South Carolina Gamecocks",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "Breaking: South Carolina finally convinced everyone that Washington wasn't named after the President, but after that game, they're looking more like Washington Generals! Hang the banner, we scored more than their state capital in a tourism ranking.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@GamecockGlory",
+    "team": "South Carolina Gamecocks",
+    "storyId": "",
+    "storyTitle": "South Carolina vs Washington",
+    "text": "That's how you show what Gamecock pride is all about! We showed up and made a statement on the field today—proud of our team and the heart they play with. Laugh now, because we're just getting started!",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@FSUDataRoom",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Missouri vs Florida",
+    "text": "While the scoreboard shows a close contest, the real story was Missouri's defensive scheming, particularly their ability to disrupt Florida's passing game with consistent pressure and effective zone coverage. Florida struggled to execute under pressure, a sign of issues with their offensive line communication and quarterback decision-making. The efficiency numbers for third-down conversions further emphasize the discrepancy in execution between these two teams.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@PainfullyFSU",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Missouri vs Florida",
+    "text": "Great, so we can't even trust Florida to take care of business. Just more proof that this conference is relentless and our guys will struggle if we don’t clean house and make serious changes. We're never competing at this rate.",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@theFLoState",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Missouri vs Florida",
+    "text": "Tough night for Florida, but remember folks, a single game doesn't define a season! Our Gators have incredible heart and we're proud of their efforts—it’s all about trusting the process and bouncing back stronger. Real fans know we'll be back!",
+    "tag": "#JNN"
+  },
+  {
+    "handle": "@notCoachGlenn",
+    "team": "Florida State Seminoles",
+    "storyId": "",
+    "storyTitle": "Missouri vs Florida",
+    "text": "Hearing that this loss against Missouri could prompt some re-evaluation of Florida's game strategies; worth monitoring how the coaching staff navigates the upcoming schedule. Keep an eye on potential roster adjustments, as improvement is clearly needed.",
+    "tag": "#JNN"
+  }
+];
 const socialReactions=jnnChirpReactions;
 const feedPosts=socialReactions;
 const newsroom=document.querySelector('.newsroom-page');

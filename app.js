@@ -15,7 +15,428 @@ const heroSlides=[
 const rankings=[
   [1,"Ohio State","0–0","—"],[2,"Oregon","0–0","—"],[3,"Notre Dame","0–0","—"],[4,"Georgia","0–0","—"],[5,"Indiana","0–0","—"],[6,"Miami","0–0","—"],[7,"Texas","0–0","—"],[8,"Texas A&M","0–0","—"],[9,"Ole Miss","0–0","—"],[10,"Oklahoma","0–0","—"]
 ];
-const scores=[];
+const scores=[
+  [
+    "FINAL",
+    "Sam Houston",
+    29,
+    "Southern Miss",
+    12
+  ],
+  [
+    "FINAL",
+    "Texas State",
+    28,
+    "Hawaii",
+    25
+  ],
+  [
+    "FINAL",
+    "Florida Atlantic",
+    28,
+    "UL Monroe",
+    23
+  ],
+  [
+    "FINAL",
+    "Utah State",
+    30,
+    "Fresno State",
+    21
+  ],
+  [
+    "FINAL",
+    "Iowa State",
+    27,
+    "Colorado",
+    24
+  ],
+  [
+    "FINAL",
+    "Buffalo",
+    33,
+    "Troy",
+    25
+  ],
+  [
+    "FINAL",
+    "Kansas State",
+    58,
+    "NC State",
+    32
+  ],
+  [
+    "FINAL",
+    "Florida State",
+    31,
+    "Pittsburgh",
+    17
+  ],
+  [
+    "FINAL",
+    "Vanderbilt",
+    20,
+    "Coastal Carolina",
+    17
+  ],
+  [
+    "FINAL",
+    "Minnesota",
+    41,
+    "Ohio State",
+    23
+  ],
+  [
+    "FINAL",
+    "Washington State",
+    40,
+    "Colorado State",
+    3
+  ],
+  [
+    "FINAL",
+    "Notre Dame",
+    58,
+    "Auburn",
+    37
+  ],
+  [
+    "FINAL",
+    "Jacksonville State",
+    21,
+    "South Alabama",
+    20
+  ],
+  [
+    "FINAL",
+    "Duke",
+    17,
+    "Wake Forest",
+    14
+  ],
+  [
+    "FINAL",
+    "Mississippi State",
+    28,
+    "Kentucky",
+    23
+  ],
+  [
+    "FINAL",
+    "USC",
+    32,
+    "Wisconsin",
+    28
+  ],
+  [
+    "FINAL",
+    "UAB",
+    31,
+    "FCS Northwest",
+    3
+  ],
+  [
+    "FINAL",
+    "Old Dominion",
+    24,
+    "Charlotte",
+    17
+  ],
+  [
+    "FINAL",
+    "USF",
+    35,
+    "Northern Illinois",
+    17
+  ],
+  [
+    "FINAL",
+    "Florida International",
+    41,
+    "Ball State",
+    7
+  ],
+  [
+    "FINAL",
+    "Utah",
+    31,
+    "Texas Tech",
+    14
+  ],
+  [
+    "FINAL",
+    "Indiana",
+    35,
+    "Illinois",
+    9
+  ],
+  [
+    "FINAL",
+    "North Dakota State",
+    41,
+    "UTEP",
+    13
+  ],
+  [
+    "FINAL",
+    "Georgia State",
+    24,
+    "Marshall",
+    8
+  ],
+  [
+    "FINAL",
+    "Northwestern",
+    38,
+    "Maryland",
+    27
+  ],
+  [
+    "FINAL",
+    "Arizona State",
+    38,
+    "West Virginia",
+    0
+  ],
+  [
+    "FINAL",
+    "Oklahoma",
+    45,
+    "Tulane",
+    3
+  ],
+  [
+    "FINAL",
+    "Baylor",
+    45,
+    "Air Force",
+    27
+  ],
+  [
+    "FINAL",
+    "Louisiana Tech",
+    31,
+    "Tulsa",
+    23
+  ],
+  [
+    "FINAL",
+    "Ole Miss",
+    36,
+    "Nebraska",
+    17
+  ],
+  [
+    "FINAL",
+    "Michigan",
+    38,
+    "Oregon",
+    13
+  ],
+  [
+    "FINAL",
+    "Tennessee",
+    45,
+    "Texas",
+    7
+  ],
+  [
+    "FINAL",
+    "FCS West",
+    27,
+    "Akron",
+    22
+  ],
+  [
+    "FINAL",
+    "South Carolina",
+    49,
+    "Washington",
+    21
+  ],
+  [
+    "FINAL",
+    "Liberty",
+    25,
+    "Western Kentucky",
+    24
+  ],
+  [
+    "FINAL",
+    "LSU",
+    48,
+    "FCS Southeast",
+    10
+  ],
+  [
+    "FINAL",
+    "UMass",
+    12,
+    "Kent State",
+    7
+  ],
+  [
+    "FINAL",
+    "Louisville",
+    21,
+    "Virginia",
+    17
+  ],
+  [
+    "FINAL",
+    "Rice",
+    38,
+    "North Texas",
+    30
+  ],
+  [
+    "FINAL",
+    "Georgia Tech",
+    38,
+    "Virginia Tech",
+    13
+  ],
+  [
+    "FINAL",
+    "East Carolina",
+    35,
+    "FCS East",
+    10
+  ],
+  [
+    "FINAL",
+    "UTSA",
+    28,
+    "Navy",
+    7
+  ],
+  [
+    "FINAL",
+    "Boise State",
+    42,
+    "Cincinnati",
+    7
+  ],
+  [
+    "FINAL",
+    "Alabama",
+    42,
+    "Texas A&M",
+    24
+  ],
+  [
+    "FINAL",
+    "Missouri",
+    23,
+    "Florida",
+    17
+  ],
+  [
+    "FINAL",
+    "Stanford",
+    41,
+    "SMU",
+    38
+  ],
+  [
+    "FINAL",
+    "Syracuse",
+    22,
+    "Clemson",
+    21
+  ],
+  [
+    "FINAL",
+    "James Madison",
+    48,
+    "UNLV",
+    27
+  ],
+  [
+    "FINAL",
+    "Rutgers",
+    27,
+    "TCU",
+    20
+  ],
+  [
+    "FINAL",
+    "Memphis",
+    31,
+    "Middle Tennessee",
+    17
+  ],
+  [
+    "FINAL",
+    "New Mexico",
+    30,
+    "Wyoming",
+    17
+  ],
+  [
+    "FINAL",
+    "Oklahoma State",
+    17,
+    "Arizona",
+    16
+  ],
+  [
+    "FINAL",
+    "Ohio",
+    28,
+    "Toledo",
+    18
+  ],
+  [
+    "FINAL",
+    "Eastern Michigan",
+    21,
+    "Georgia Southern",
+    16
+  ],
+  [
+    "FINAL",
+    "Universidad MX",
+    28,
+    "Iowa",
+    7
+  ],
+  [
+    "FINAL",
+    "Miami",
+    37,
+    "UCF",
+    34
+  ],
+  [
+    "FINAL",
+    "Louisiana",
+    28,
+    "Kennesaw State",
+    20
+  ],
+  [
+    "FINAL",
+    "Arkansas State",
+    34,
+    "Missouri State",
+    31
+  ],
+  [
+    "FINAL",
+    "North Carolina",
+    31,
+    "UConn",
+    13
+  ],
+  [
+    "FINAL",
+    "Appalachian State",
+    37,
+    "Nevada",
+    16
+  ]
+];
 const players=[
   {rank:1,name:"Jeremiah Smith",school:"WR · OHIO STATE",odds:"No. 1",status:"Favorite",case:"Ohio State's game-breaking receiver opens the dynasty preseason at the front of the Heisman field."},
   {rank:2,name:"Dante Moore",school:"QB · OREGON",odds:"No. 2",status:"Favorite",case:"Oregon's quarterback enters the season positioned to turn a playoff chase into a national awards campaign."},
